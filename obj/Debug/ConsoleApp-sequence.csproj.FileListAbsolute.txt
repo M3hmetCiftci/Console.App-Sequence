@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-sequence\ConsoleApp-sequence\bin\Debug\ConsoleApp-sequence.exe.config
+C:\Users\asus\source\repos\ConsoleApp-sequence\ConsoleApp-sequence\bin\Debug\ConsoleApp-sequence.exe
+C:\Users\asus\source\repos\ConsoleApp-sequence\ConsoleApp-sequence\bin\Debug\ConsoleApp-sequence.pdb
+C:\Users\asus\source\repos\ConsoleApp-sequence\ConsoleApp-sequence\obj\Debug\ConsoleApp-sequence.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-sequence\ConsoleApp-sequence\obj\Debug\ConsoleApp-sequence.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-sequence\ConsoleApp-sequence\obj\Debug\ConsoleApp-sequence.exe
+C:\Users\asus\source\repos\ConsoleApp-sequence\ConsoleApp-sequence\obj\Debug\ConsoleApp-sequence.pdb
